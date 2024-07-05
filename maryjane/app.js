@@ -4,7 +4,7 @@ const menu = [
     title: "Gorilla Glue",
     category: "indica",
     price: 250,
-    img: "./images/item-1.jpeg",
+    img: "maryjane/images/item-1.jpeg",
     desc: `woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: "Blue Dream",
     category: "sativa",
     price: 500,
-    img: "./images/item-2.jpeg",
+    img: "maryjane/images/item-2.jpeg",
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "Sour Diesel",
     category: "hybrid",
     price: 350,
-    img: "./images/item-3.jpeg",
+    img: "maryjane/images/item-3.jpeg",
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "Purple Haze",
     category: "sativa",
     price: 250,
-    img: "./images/item-5.jpeg",
+    img: "maryjane/images/item-5.jpeg",
     desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "AK-47",
     category: "hybrid",
     price: 400,
-    img: "./images/item-6.jpeg",
+    img: "maryjane/images/item-6.jpeg",
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "White Widow",
     category: "indica",
     price: 500,
-    img: "./images/item-7.jpeg",
+    img: "maryjane/images/item-7.jpeg",
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "Gelato",
     category: "sativa",
     price: 150,
-    img: "./images/item-8.jpeg",
+    img: "maryjane/images/item-8.jpeg",
     desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: "Trainwreck",
     category: "hybrid",
     price: 300,
-    img: "./images/item-9.jpeg",
+    img: "maryjane/images/item-9.jpeg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
@@ -76,7 +76,7 @@ const menu = [
     title: "Girl Scout Cookies (GSC)",
     category: "cookie",
     price: 2500,
-    img: "./images/item-10.jpeg",
+    img: "maryjane/images/item-10.jpeg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
 ];
